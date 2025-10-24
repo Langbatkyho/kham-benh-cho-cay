@@ -1,0 +1,7 @@
+{
+  "name": "Chuyên gia Cây trồng AI",
+  "description": "Một ứng dụng web giúp nhận dạng cây trồng, chẩn đoán sức khỏe của cây qua hình ảnh và cung cấp các đề xuất chăm sóc chi tiết bằng Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
