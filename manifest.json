@@ -1,0 +1,22 @@
+
+{
+  "name": "Chuyên gia Cây trồng AI",
+  "short_name": "Cây trồng AI",
+  "description": "Một ứng dụng web giúp nhận dạng cây trồng, chẩn đoán sức khỏe của cây qua hình ảnh và cung cấp các đề xuất chăm sóc chi tiết bằng Gemini API.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F0FDF4",
+  "theme_color": "#166534",
+  "icons": [
+    {
+      "src": "/assets/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
